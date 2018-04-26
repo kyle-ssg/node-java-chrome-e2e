@@ -20,6 +20,8 @@ root@c0ff3e:/# google-chrome --version
 Google Chrome 66.0.3359.117
 ```
 
+[![Build Status on the master branch](https://travis-ci.org/mind-doc/node-java-chrome-e2e.svg?branch=master)](https://travis-ci.org/mind-doc/node-java-chrome-e2e)
+
 ## Docker Hub
 
 ### `docker pull`
