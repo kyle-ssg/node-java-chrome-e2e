@@ -68,3 +68,9 @@ $ cd node-java-chrome-e2e
 $ docker build -t node-java-chrome-e2e .
 $ docker images node-java-chrome-e2e
 ```
+
+# Links
+
+* [Docker Hub `minddocdev/node-java-chrome-e2e`](https://hub.docker.com/r/minddocdev/node-java-chrome-e2e/)
+* [GitHub `mind-doc/node-java-chrome-e2e`](https://github.com/mind-doc/node-java-chrome-e2e)
+* [Travis CI](https://travis-ci.org/mind-doc/node-java-chrome-e2e)
