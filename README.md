@@ -9,18 +9,18 @@ It has Node.js, NPM, Java and Google Chrome installed:
 ```
 $ docker run -it minddocdev/node-java-chrome-e2e
 root@c0ff3e:/# node --version
-v8.9.4
+v10.15.3
 root@c0ff3e:/# npm --version
-5.6.0
+6.4.1
 root@c0ff3e:/# java -version
-openjdk version "1.8.0_162"
-OpenJDK Runtime Environment (build 1.8.0_162-8u162-b12-1~bpo8+1-b12)
-OpenJDK 64-Bit Server VM (build 25.162-b12, mixed mode)
+openjdk version "1.8.0_171"
+OpenJDK Runtime Environment (build 1.8.0_171-8u171-b11-1~bpo8+1-b11)
+OpenJDK 64-Bit Server VM (build 25.171-b11, mixed mode)
 root@c0ff3e:/# google-chrome --version
-Google Chrome 66.0.3359.117
+Google Chrome 73.0.3683.86
 ```
 
-[![Build Status on the master branch](https://travis-ci.org/mind-doc/node-java-chrome-e2e.svg?branch=master)](https://travis-ci.org/mind-doc/node-java-chrome-e2e)
+[![Build Status on the master branch](https://travis-ci.org/minddocdev/node-java-chrome-e2e.svg?branch=master)](https://travis-ci.org/minddocdev/node-java-chrome-e2e)
 
 ## Docker Hub
 
@@ -74,5 +74,5 @@ $ docker images node-java-chrome-e2e
 # Links
 
 * [Docker Hub `minddocdev/node-java-chrome-e2e`](https://hub.docker.com/r/minddocdev/node-java-chrome-e2e/)
-* [GitHub `mind-doc/node-java-chrome-e2e`](https://github.com/mind-doc/node-java-chrome-e2e)
-* [Travis CI](https://travis-ci.org/mind-doc/node-java-chrome-e2e)
+* [GitHub `mind-doc/node-java-chrome-e2e`](https://github.com/minddocdev/node-java-chrome-e2e)
+* [Travis CI](https://travis-ci.org/minddocdev/node-java-chrome-e2e)
